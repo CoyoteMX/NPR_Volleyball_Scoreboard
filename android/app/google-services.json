@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "644206400307",
+    "firebase_url": "https://score-e210a.firebaseio.com",
+    "project_id": "score-e210a",
+    "storage_bucket": "score-e210a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644206400307:android:a08bd247e66051ed382446",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYiJeEqimcbS-uNYf_5kCA_zahWgTHyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644206400307:android:78e60d9fb4cdca63382446",
+        "android_client_info": {
+          "package_name": "com.nprvolleyball.scoreboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYiJeEqimcbS-uNYf_5kCA_zahWgTHyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644206400307:android:391e4310953ec9c7382446",
+        "android_client_info": {
+          "package_name": "com.nprvolleyball.scoreboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYiJeEqimcbS-uNYf_5kCA_zahWgTHyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644206400307-398j1mqaed2r5259sok3jk8ru9a3kahs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
